@@ -1,0 +1,17 @@
+In a company, there are two types of employees: commissioned employees and hourly employees.
+
+Employee that includes three instance variables—a first name (type String), a last name (type String) 
+
+and a monthly salary (double). Commissioned employees earn a certain percentage of their total 
+
+sales. Hourly employees receive wages based on the number of hours they have worked. Write an 
+
+abstract class called Employee that contains the basic information about employees. The class 
+
+should contain at least one abstract method called salary(). Write two concrete subclasses of 
+
+Employee named CommissionedEmployee and HourlyEmployee. Write proper bodies in these 
+
+classes to override the abstract method of their super class. Also include proper variables, getters, 
+
+setters, constructors and exception handling mechanisms in all the classes.
